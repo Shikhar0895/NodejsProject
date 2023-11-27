@@ -1,0 +1,4 @@
+here are the contents : test txt
+async file read module content
+The file is read successfully and second file content override
+new content appended

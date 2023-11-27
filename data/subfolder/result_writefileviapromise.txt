@@ -1,0 +1,13 @@
+This is the content: first - test txt
+async file read module content
+The file is read successfully , second - second file content override
+new content appendedThis is the content: first - test txt
+async file read module content
+The file is read successfully , second - second file content override
+new content appendedThis is the content: first - test txt
+async file read module content
+The file is read successfully , second - second file content override
+new content appendedThis is the content: first - test txt
+async file read module content
+The file is read successfully , second - second file content override
+new content appended
